@@ -20,7 +20,7 @@
     {
         "image": "logo_ecobb.avif",
         "title": "Eco Bliss Bath",
-        "text": "Automatisation de tests pour un site de commerce écoresponsable.",
+        "text": "Automatisation de tests pour un site de commerce écoresponsable avec Cypress.",
         "link": "https://github.com/ako-coder/projet-ecobb"
     }
 ]
