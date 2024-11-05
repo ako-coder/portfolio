@@ -32,10 +32,22 @@
 }
 /* text css above hero image*/
 .hero_title {
-    font-size: 4.5rem;
+    font-size: 4rem;
+    font-family: "Marcellus", serif;
+    font-weight: 400;
+    font-style: normal;
+    margin-bottom: 2rem;
 }
 .hero_desc {
-    font-size: 2rem;
+    font-size: 1.5rem;
+    border: 1px solid black;
+    border-radius: 25px;
+    border-color: white;
+    display: inline;
+    padding: 8px 18px;
+    line-height: 1.5rem;
+    vertical-align: middle;
+
 }
 .hero-text {
     text-align: center;
