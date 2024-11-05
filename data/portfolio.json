@@ -1,10 +1,4 @@
-[    
-    {
-        "image": "logo_ecobb.avif",
-        "title": "Eco Bliss Bath",
-        "text": "Automatisation de tests pour un site de commerce écoresponsable.",
-        "link": "https://github.com/ako-coder/projet-ecobb"
-    },
+[   
     {
         "image": "logo_booki.avif",
         "title": "Booki",
@@ -12,15 +6,21 @@
         "link": "https://ako-coder.github.io/projet-booki/"
     },
     {
+        "image": "colors.jpg",
+        "title": "Print it!",
+        "text": "Mis à jour de site web d'une impremerie avec un carousel en pure JavaScript.",
+        "link": "https://ako-coder.github.io/Print-it-JS-main/"
+    },
+    {
         "image": "logo_kasa.avif",
         "title": "Kasa",
         "text": "Création d'une application web de location immobilière avec React.",
         "link": "https://github.com/ako-coder/projet-kasa"
-    },
+    }, 
     {
-        "image": "colors.jpg",
-        "title": "Print it!",
-        "text": "Mis à jour de sit web d'une impremerie avec un carousel en pure JavaScript.",
-        "link": "https://ako-coder.github.io/Print-it-JS-main/"
+        "image": "logo_ecobb.avif",
+        "title": "Eco Bliss Bath",
+        "text": "Automatisation de tests pour un site de commerce écoresponsable.",
+        "link": "https://github.com/ako-coder/projet-ecobb"
     }
 ]
